@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+.pytest_cache
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.vscode
+.gradio
+.podman-cache
+.coverage
+
+
+# ruff and snakemake
+.coverage/
+.ruff_cache/
+.pytest_cache/
+
+# apple 
+.DS_Store
+
+# data
+/data/
+*.jar
+*.tgz
+
+# wandb
+wandb/
+logs/*test
+logs/*/*test
+
+# env
+.venv
+.env
+venv
+.env*
+!.env.*.example
+!.env.example
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
