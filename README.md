@@ -31,7 +31,7 @@
 Contact: [[history-llms@econ.uzh.ch](mailto:history-llms@econ.uzh.ch)] 
 
 
-We thank Diego Rojas @Z.ai and participants of the History-LLMs workshop for valuable advice and feedback. 
+We thank Diego Rojas @Z.ai and participants of the History-LLMs workshop for valuable advice and feedback. We gratefully acknowledge research credits provided by [Lambda AI](https://lambda.ai/).
 
 ## Announcements
 ### 2025-12-14 **Upcoming Ranke-4B release: A family of time-locked historical models**
