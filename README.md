@@ -137,7 +137,7 @@ This repository serves as central "information hub" for our ongoing project crea
 1. We create fully time-locked models, i.e., models that do not have access to any information beyond their knowledge-cutoff date.
 2. We develop chatbots while minimizing interference with the normative judgments acquired during pretraining (“uncontaminated bootstrapping”).
 
-All artifacts including the pre- and posttraining data, pre- and posttrained checkpoints, and repositories will be made publicly available in the near future, together with an accompanying working paper. Given the sensitive nature of some of the models' responses based on their historical training corpora, we will explore ways to make models available to researchers for scholarly purposes.
+Artifacts, data, and repositories will be made available in the near future, together with an accompanying working paper. We want to make the models broadly accessible to researchers, teachers and - possibly behind a protective layer guarding against the most extreme toxic generations such as genocidal views - to the broader public.
 
 **We invite comments and suggestions on all aspects of this project.**
 
@@ -168,14 +168,11 @@ They aren't:
 
 Historical texts contain racism, antisemitism, misogyny, imperialist views. The models will reproduce these views because they're in the training data. This isn't a flaw, but a crucial feature—understanding how such views were articulated and normalized is crucial to understanding how they took hold.
 
-We're developing a responsible access framework that makes models available to researchers for scholarly purposes while preventing misuse.
-
 ### Getting involved
-We welcome your input on:
+We welcome your input on all aspects of the project, including but not limited to:
 - Which periods and regions matter most
 - What questions would be most valuable to probe
 - How to validate outputs against historical evidence
-- Responsible access frameworks
 
 Contact us at [history-llms@econ.uzh.ch](mailto:history-llms@econ.uzh.ch)
 
